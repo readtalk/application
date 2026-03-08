@@ -13,6 +13,8 @@ Deploy your own Vite project.
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/readtalk/readtalk?quickstart=1)
 
+![Image](https://github.com/user-attachments/assets/25d81e77-3140-4f44-9224-2f1102c8dbb5)`
+
 _Live Example: https://readtalk.pages.dev_
 
 ### Deploying From Your Terminal
