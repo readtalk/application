@@ -31,7 +31,7 @@
       localStorage.setItem('username', username);
       
       document.getElementById('chatFrame').src = 
-        `https://account.soeparnocorp.workers.dev?userId=${userId}&email=${encodeURIComponent(email)}&username=${encodeURIComponent(username)}`;
+        `https://auth.app-readtalk.workers.dev?userId=${userId}&email=${encodeURIComponent(email)}&username=${encodeURIComponent(username)}`;
     }
   </script>
 </body>
